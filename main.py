@@ -8,6 +8,12 @@ import bs4
 from bs4 import BeautifulSoup
 
 
+#New change
+
+
+
+
+
 # Initialize Text-to-Speech Engine
 engine = pyttsx3.init("sapi5")
 voices = engine.getProperty("voices")
